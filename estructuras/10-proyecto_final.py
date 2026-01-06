@@ -17,52 +17,46 @@ print("4.- Buscar producto")
 print("5.- Contar productos del carrito")
 print("6.- Vaciar el carrito")
 
-shopping_cart = ["Laptop", "Vaso", "Cafe", "Audifonos"]
+
+shopping_cart = ["Laptop","Vaso","Cafe","Audifonos"]
 option = input("Elige una opcion (1-6): ")
 
 if option == "1":
-    name_product = input(
-        "Agregar producto\n"
-        "Capture el nombre del nuevo producto:\n> "
-    )
+    name_product = input('''Agregar el producto: 
+                           Capture el nombre del nuevo producto:
+                         ''')
     shopping_cart.append(name_product)
-
+    
 elif option == "2":
-    name_product = input(
-        "Eliminar producto\n"
-        "Capture el nombre del producto a eliminar:\n> "
-    )
+    name_product = input('''Eliminar el producto: 
+                           Capture el nombre del  producto a eliminar:
+                         ''')
     if name_product not in shopping_cart:
         print("El producto no existe")
     else:
         shopping_cart.remove(name_product)
         print("Producto eliminado correctamente")
-
+        
 elif option == "3":
-    print("Lista ordenada:")
-    print(sorted(shopping_cart))
-
+    
+    print(sorted(shopping_cart))    
 elif option == "4":
-    name_product = input(
-        "Buscar producto\n"
-        "Capture el nombre del producto a buscar:\n> "
-    )
-    if name_product not in shopping_cart:
+    name_product = input('''Buscar el producto: 
+                           Capture el nombre del  producto a buscar:
+                         ''')
+    if (name_product not in shopping_cart):
         print("El producto no existe")
     else:
         print("Se encontro el producto")
-
+        
 elif option == "5":
-    total = len(shopping_cart)
-    print("Total de productos:", total)
-    # o también:
-    # print(f"Total de productos: {len(shopping_cart)}")
-
+    print("Total de productos" + len(shopping_cart))
 elif option == "6":
     shopping_cart.clear()
-    print("Se ha vaciado el carrito de compras")
-
+    print("Se ha vaciado el carrito del producto")
 else:
     print("Opcion no valida")
+    
+    
+print(shopping_cart)
 
-print("Estado final del carrito:", shopping_cart)
