@@ -8,7 +8,7 @@
 #     print(index,char)
 
 
-for index,char in enumerate(list(range(101))):
-    # print(index,char)
+for index,char in enumerate(range(101)):
+    print(index,char)
     if char ==30 :
         print("Aqui estoy")
