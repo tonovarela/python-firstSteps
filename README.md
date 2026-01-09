@@ -129,7 +129,7 @@ python3 condicionales/02-elif_conditional.py
 Condicionales en una sola línea.
 
 ```bash
-python3 condicionales/03-ternary_operator.py`
+python3 condicionales/03-ternary_operator.py
 ```
 
 #### 04 - Truthy y Falsey
@@ -138,7 +138,7 @@ python3 condicionales/03-ternary_operator.py`
 Valores que se evalúan como verdadero o falso.
 
 ```bash
-python3 condicionales/04-truthy-falsey.py`
+python3 condicionales/04-truthy-falsey.py
 ```
 
 #### 05 - None
@@ -147,7 +147,7 @@ python3 condicionales/04-truthy-falsey.py`
 Manejo del valor `None` en Python.
 
 ```bash
-python3 condicionales/05-none.py`
+python3 condicionales/05-none.py
 ```
 
 #### 06 - Operadores Lógicos
@@ -156,7 +156,7 @@ python3 condicionales/05-none.py`
 Uso de `and`, `or`, `not`.
 
 ```bash
-python3 condicionales/06-logical_operators.py`
+python3 condicionales/06-logical_operators.py
 ```
 
 #### 07 - Operadores de Comparación
@@ -165,7 +165,7 @@ python3 condicionales/06-logical_operators.py`
 Comparaciones: `==`, `!=`, `>`, `<`, `>=`, `<=`.
 
 ```bash
-python3 condicionales/07-comparation_operatos.py`
+python3 condicionales/07-comparation_operatos.py
 ```
 
 #### 08 - Operadores de Membresía
@@ -174,7 +174,7 @@ python3 condicionales/07-comparation_operatos.py`
 Uso de `in` y `not in`.
 
 ```bash
-python3 condicionales/08-membership_operators.py`
+python3 condicionales/08-membership_operators.py
 ```
 
 #### 09 - Is Equal
@@ -183,7 +183,7 @@ python3 condicionales/08-membership_operators.py`
 Diferencia entre `is` y `==`.
 
 ```bash
-python3 condicionales/09-is_equal.py`
+python3 condicionales/09-is_equal.py
 ```
 
 #### 10 - Short Circuiting
@@ -192,7 +192,7 @@ python3 condicionales/09-is_equal.py`
 Evaluación de cortocircuito en expresiones lógicas.
 
 ```bash
-python3 condicionales/10-short_circuiting.py`
+python3 condicionales/10-short_circuiting.py
 ```
 
 #### 11 - Control Flow
@@ -201,7 +201,7 @@ python3 condicionales/10-short_circuiting.py`
 Flujo de control avanzado.
 
 ```bash
-python3 condicionales/11-control_flow.py`
+python3 condicionales/11-control_flow.py
 ```
 
 #### 12 - Proyecto Final
@@ -210,7 +210,7 @@ python3 condicionales/11-control_flow.py`
 Proyecto integrador de condicionales.
 
 ```bash
-python3 condicionales/12-proyecto_final.py`
+python3 condicionales/12-proyecto_final.py
 ```
 
 ### Estructuras (Listas)
@@ -221,7 +221,7 @@ python3 condicionales/12-proyecto_final.py`
 Cortar y manipular listas con índices.
 
 ```bash
-python3 estructuras/02-list-slicing.py`
+python3 estructuras/02-list-slicing.py
 ```
 
 #### 03 - Métodos para Agregar
@@ -230,7 +230,7 @@ python3 estructuras/02-list-slicing.py`
 Métodos: `append()`, `extend()`, `insert()`.
 
 ```bash
-python3 estructuras/03-methods_adding.py`
+python3 estructuras/03-methods_adding.py
 ```
 
 #### 04 - Métodos para Remover
@@ -239,7 +239,7 @@ python3 estructuras/03-methods_adding.py`
 Métodos: `remove()`, `pop()`, `clear()`.
 
 ```bash
-python3 estructuras/04-list_methods_remove.py`
+python3 estructuras/04-list_methods_remove.py
 ```
 
 #### 05 - Métodos de Búsqueda
@@ -248,7 +248,7 @@ python3 estructuras/04-list_methods_remove.py`
 Métodos: `index()`, `count()`, `in`.
 
 ```bash
-python3 estructuras/05-list-methods_search.py`
+python3 estructuras/05-list-methods_search.py
 ```
 
 #### 06 - Métodos de Ordenamiento
@@ -257,7 +257,7 @@ python3 estructuras/05-list-methods_search.py`
 Métodos: `sort()`, `sorted()`, `reverse()`.
 
 ```bash
-python3 estructuras/06-list-methods_sort.py`
+python3 estructuras/06-list-methods_sort.py
 ```
 
 #### 07 - Otros Métodos
@@ -266,7 +266,7 @@ python3 estructuras/06-list-methods_sort.py`
 Métodos adicionales de listas.
 
 ```bash
-python3 estructuras/07-list_others.py`
+python3 estructuras/07-list_others.py
 ```
 
 #### 08 - Matrices
@@ -275,7 +275,7 @@ python3 estructuras/07-list_others.py`
 Listas bidimensionales (matrices).
 
 ```bash
-python3 estructuras/08-matrix.py`
+python3 estructuras/08-matrix.py
 ```
 
 #### 09 - List Unpacking
@@ -284,7 +284,7 @@ python3 estructuras/08-matrix.py`
 Desempaquetado de listas.
 
 ```bash
-python3 estructuras/09-list_unpacking.py`
+python3 estructuras/09-list_unpacking.py
 ```
 
 #### 10 - Proyecto Final
@@ -293,7 +293,7 @@ python3 estructuras/09-list_unpacking.py`
 Carrito de compras con todas las operaciones de listas.
 
 ```bash
-python3 estructuras/10-proyecto_final.py`
+python3 estructuras/10-proyecto_final.py
 ```
 
 ### Diccionarios
@@ -304,7 +304,7 @@ python3 estructuras/10-proyecto_final.py`
 Introducción a los diccionarios (key-value).
 
 ```bash
-python3 diccionarios/01-diccionaries.py`
+python3 diccionarios/01-diccionaries.py
 ```
 
 #### 02 - Keys
@@ -313,7 +313,7 @@ python3 diccionarios/01-diccionaries.py`
 Trabajo con llaves de diccionarios.
 
 ```bash
-python3 diccionarios/02-keys.py`
+python3 diccionarios/02-keys.py
 ```
 
 #### 03 - Métodos de Diccionarios
@@ -322,7 +322,7 @@ python3 diccionarios/02-keys.py`
 Métodos: `keys()`, `values()`, `items()`.
 
 ```bash
-python3 diccionarios/03-dictionaries_method.py`
+python3 diccionarios/03-dictionaries_method.py
 ```
 
 #### 04 - Agregar y Remover
@@ -331,7 +331,7 @@ python3 diccionarios/03-dictionaries_method.py`
 Métodos: `pop()`, `popitem()`, `update()`.
 
 ```bash
-python3 diccionarios/04-dictionaries_methods_add_remove.py`
+python3 diccionarios/04-dictionaries_methods_add_remove.py
 ```
 
 #### Proyecto Final
@@ -344,7 +344,7 @@ Sistema de gestión de estudiantes con diccionarios y bucles `for`:
 - Iterar con `for ... in`
 
 ```bash
-python3 diccionarios/proyecto-final.py`
+python3 diccionarios/proyecto-final.py
 ```
 
 ### Bucles (Loops)
@@ -355,7 +355,7 @@ python3 diccionarios/proyecto-final.py`
 Introducción al bucle `for` en Python.
 
 ```bash
-python3 loop/01-for_loop.py`
+python3 loop/01-for_loop.py
 ```
 
 #### 02 - Iterables
@@ -364,7 +364,7 @@ python3 loop/01-for_loop.py`
 Qué es un iterable y cómo recorrerlo.
 
 ```bash
-python3 loop/02-iterable.py`
+python3 loop/02-iterable.py
 ```
 
 #### 03 - Range
@@ -373,7 +373,7 @@ python3 loop/02-iterable.py`
 Uso de la función `range()` para generar secuencias.
 
 ```bash
-python3 loop/03-range.py`
+python3 loop/03-range.py
 ```
 
 #### 04 - Enumerate
@@ -382,7 +382,7 @@ python3 loop/03-range.py`
 Uso de `enumerate()` para obtener índice y valor en iteraciones.
 
 ```bash
-python3 loop/04-enumerate.py`
+python3 loop/04-enumerate.py
 ```
 
 ### Tuplas y Sets
@@ -393,7 +393,7 @@ python3 loop/04-enumerate.py`
 Introducción a tuplas: colecciones inmutables.
 
 ```bash
-python3 tuples-sets/01-tuple.py`
+python3 tuples-sets/01-tuple.py
 ```
 
 #### 02 - Sets
@@ -402,7 +402,7 @@ python3 tuples-sets/01-tuple.py`
 Conjuntos en Python: colecciones sin elementos duplicados.
 
 ```bash
-python3 tuples-sets/02-set.py`
+python3 tuples-sets/02-set.py
 ```
 
 #### 03 - Conversión entre Tipos
@@ -411,7 +411,7 @@ python3 tuples-sets/02-set.py`
 Convertir entre listas, tuplas y sets.
 
 ```bash
-python3 tuples-sets/03-converts.py`
+python3 tuples-sets/03-converts.py
 ```
 
 #### Métodos de Sets
@@ -434,7 +434,21 @@ python3 tuples-sets/methods/03-sets_methods_part3.py
 Ejercicios prácticos combinando tuplas y sets.
 
 ```bash
-python3 tuples-sets/exercise.py`
+python3 tuples-sets/exercise.py
+```
+
+### Programación Orientada a Objetos (POO)
+
+#### 01 - Clase Básica
+**Archivo:** `poo/01-class.py`
+
+Introducción a clases y objetos en Python:
+- Definición de una clase
+- Atributos y métodos
+- Crear instancias (objetos)
+
+```bash
+python3 poo/01-class.py
 ```
 
 ## 📝 Conceptos Aprendidos
@@ -456,6 +470,7 @@ python3 tuples-sets/exercise.py`
 - ✅ Diccionarios y métodos
 - ✅ Tuplas y sets
 - ✅ Función `range()` y `enumerate()`
+- ✅ Fundamentos de Programación Orientada a Objetos (POO)
 
 ## 🚀 Ejecutar los Archivos
 
