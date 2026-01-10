@@ -385,6 +385,164 @@ Uso de `enumerate()` para obtener índice y valor en iteraciones.
 python3 loop/04-enumerate.py
 ```
 
+#### 05 - While
+**Archivo:** `loop/05-while.py`
+
+Bucle `while` con condiciones.
+
+```bash
+python3 loop/05-while.py
+```
+
+#### 06 - Continue y Pass
+**Archivo:** `loop/06-continue_pass.py`
+
+Control de flujo en bucles: `continue`, `break` y `pass`.
+
+```bash
+python3 loop/06-continue_pass.py
+```
+
+#### 07 - For vs While
+**Archivo:** `loop/07-for_vs_while.py`
+
+Comparación y uso apropiado de `for` y `while`.
+
+```bash
+python3 loop/07-for_vs_while.py
+```
+
+#### 08 - Listas Anidadas
+**Archivo:** `loop/08-nested_list.py`
+
+Iterar sobre listas dentro de listas.
+
+```bash
+python3 loop/08-nested_list.py
+```
+
+#### 09 - Diccionarios Anidados
+**Archivo:** `loop/09-nested_dict.py`
+
+Iterar sobre diccionarios dentro de diccionarios.
+
+```bash
+python3 loop/09-nested_dict.py
+```
+
+#### 10 - Ejercicios de Loops
+**Archivo:** `loop/10-execises_loop.py`
+
+Ejercicios prácticos con bucles.
+
+```bash
+python3 loop/10-execises_loop.py
+```
+
+#### 11 - Proyecto Final
+**Archivo:** `loop/11-proyecto_final.py`
+
+Proyecto integrador de bucles.
+
+```bash
+python3 loop/11-proyecto_final.py
+```
+
+### Funciones
+
+#### 01 - Funciones Básicas
+**Archivo:** `funciones/01-functions.py`
+
+Introducción a las funciones en Python:
+- Definir funciones con `def`
+- Llamar funciones
+- Reutilización de código
+
+```bash
+python3 funciones/01-functions.py
+```
+
+#### 02 - Return
+**Archivo:** `funciones/return.py`
+
+Uso de `return` para devolver valores desde funciones.
+
+```bash
+python3 funciones/return.py
+```
+
+#### 03 - Parámetros y Argumentos
+**Archivo:** `funciones/03-parameters_arguments.py`
+
+Diferencia entre parámetros y argumentos.
+
+```bash
+python3 funciones/03-parameters_arguments.py
+```
+
+#### 04 - Parámetros por Defecto
+**Archivo:** `funciones/04-default_parameter.py`
+
+Definir valores por defecto en parámetros.
+
+```bash
+python3 funciones/04-default_parameter.py
+```
+
+#### 05 - Docstrings
+**Archivo:** `funciones/05-docstring.py`
+
+Documentar funciones con docstrings.
+
+```bash
+python3 funciones/05-docstring.py
+```
+
+#### 06 - Scopes
+**Archivo:** `funciones/06-scopes.py`
+
+Alcance de variables: local vs global.
+
+```bash
+python3 funciones/06-scopes.py
+```
+
+#### 07 - Global Keyword
+**Archivo:** `funciones/07-global_keyword.py`
+
+Uso de la palabra clave `global`.
+
+```bash
+python3 funciones/07-global_keyword.py
+```
+
+#### 08 - Nonlocal Keyword
+**Archivo:** `funciones/08-nonlocal_keyword.py`
+
+Uso de la palabra clave `nonlocal` en funciones anidadas.
+
+```bash
+python3 funciones/08-nonlocal_keyword.py
+```
+
+#### 09 - Args
+**Archivo:** `funciones/09-args.py`
+
+Uso de `*args` para argumentos variables.
+
+```bash
+python3 funciones/09-args.py
+```
+
+#### 10 - Ejercicio
+**Archivo:** `funciones/10_exercise.py`
+
+Ejercicios prácticos con funciones.
+
+```bash
+python3 funciones/10_exercise.py
+```
+
 ### Tuplas y Sets
 
 #### 01 - Tuplas
@@ -449,6 +607,51 @@ Introducción a clases y objetos en Python:
 
 ```bash
 python3 poo/01-class.py
+```
+
+#### 02 - Constructores
+**Archivo:** `poo/02-contructors.py`
+
+Método `__init__()` para inicializar objetos.
+
+```bash
+python3 poo/02-contructors.py
+```
+
+#### 03 - Objetos
+**Archivo:** `poo/03-object.py`
+
+Trabajar con instancias de objetos.
+
+```bash
+python3 poo/03-object.py
+```
+
+#### 04 - Atributos y Métodos
+**Archivo:** `poo/04-atributtes-methods.py`
+
+Definición y uso de atributos y métodos de clase.
+
+```bash
+python3 poo/04-atributtes-methods.py
+```
+
+#### 05 - Atributos Protegidos
+**Archivo:** `poo/05-atributes_protected.py`
+
+Convención de atributos protegidos con `_`.
+
+```bash
+python3 poo/05-atributes_protected.py
+```
+
+#### 06 - Atributos Privados
+**Archivo:** `poo/06-atributtes_private.py`
+
+Atributos privados con `__` (name mangling).
+
+```bash
+python3 poo/06-atributtes_private.py
 ```
 
 ## 📝 Conceptos Aprendidos
