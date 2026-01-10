@@ -672,8 +672,15 @@ python3 poo/06-atributtes_private.py
 - ✅ List slicing y unpacking
 - ✅ Diccionarios y métodos
 - ✅ Tuplas y sets
+- ✅ Bucles `for` y `while`
 - ✅ Función `range()` y `enumerate()`
+- ✅ Listas y diccionarios anidados
+- ✅ Funciones: definición, parámetros, return
+- ✅ Scopes: global, local, nonlocal
+- ✅ Args variables con `*args`
 - ✅ Fundamentos de Programación Orientada a Objetos (POO)
+- ✅ Clases, objetos, constructores
+- ✅ Atributos públicos, protegidos y privados
 
 ## 🚀 Ejecutar los Archivos
 
