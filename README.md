@@ -654,6 +654,25 @@ Atributos privados con `__` (name mangling).
 python3 poo/06-atributtes_private.py
 ```
 
+#### 07 - Métodos Estáticos (static)
+**Archivo:** `poo/07-static.py`
+
+Introducción a los métodos estáticos y cuándo usarlos:
+- `@staticmethod` para funciones que no dependen de la instancia ni de la clase.
+
+```bash
+python3 poo/07-static.py
+```
+
+#### 08 - Ejemplo de Static
+**Archivo:** `poo/08-static_example.py`
+
+Ejemplo práctico mostrando la diferencia entre método de instancia, método de clase y método estático.
+
+```bash
+python3 poo/08-static_example.py
+```
+
 ## 📝 Conceptos Aprendidos
 
 - ✅ Sintaxis básica de Python
