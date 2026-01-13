@@ -11,7 +11,7 @@ def divide_numbers():
     except ZeroDivisionError:
         print("La division entre 0 no esta definida")
     except Exception as error:
-        print(type(error))     
+        print(type(error))             
     finally:
         print("Me ejecuto")    
         
