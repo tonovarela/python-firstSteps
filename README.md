@@ -673,6 +673,314 @@ Ejemplo práctico mostrando la diferencia entre método de instancia, método de
 python3 poo/08-static_example.py
 ```
 
+### POO Avanzada (POO2)
+
+#### 01 - Abstracción
+**Archivo:** `poo2/01-abstraction.py`
+
+Principio de abstracción en POO.
+
+```bash
+python3 poo2/01-abstraction.py
+```
+
+#### 02 - Encapsulación
+**Archivo:** `poo2/02-encapsulation.py`
+
+Principio de encapsulación: ocultar datos internos.
+
+```bash
+python3 poo2/02-encapsulation.py
+```
+
+#### 03 - Herencia
+**Archivo:** `poo2/03-herencia.py`
+
+Herencia: reutilización de código mediante clases padre e hijo.
+
+```bash
+python3 poo2/03-herencia.py
+```
+
+#### 04 - Polimorfismo
+**Archivo:** `poo2/04-polimorfismo.py`
+
+Polimorfismo: múltiples formas de un mismo método.
+
+```bash
+python3 poo2/04-polimorfismo.py
+```
+
+#### 05 - Introspección
+**Archivo:** `poo2/05-introspection.py`
+
+Introspección: examinar objetos en tiempo de ejecución.
+
+```bash
+python3 poo2/05-introspection.py
+```
+
+#### 06 - Super
+**Archivo:** `poo2/06-super.py`
+
+Uso de `super()` para llamar métodos de la clase padre.
+
+```bash
+python3 poo2/06-super.py
+```
+
+#### 07 - Herencia Múltiple
+**Archivo:** `poo2/07-herencia-multiple.py`
+
+Herencia múltiple: heredar de múltiples clases.
+
+```bash
+python3 poo2/07-herencia-multiple.py
+```
+
+#### 08 - Composición
+**Archivo:** `poo2/08-composition.py`
+
+Composición: construir objetos complejos con objetos más simples.
+
+```bash
+python3 poo2/08-composition.py
+```
+
+#### 09 - Abstract
+**Archivo:** `poo2/09-abstract.py`
+
+Clases abstractas con ABC (Abstract Base Classes).
+
+```bash
+python3 poo2/09-abstract.py
+```
+
+#### 10 - Interface
+**Archivo:** `poo2/10-interface.py`
+
+Interfaces en Python usando clases abstractas.
+
+```bash
+python3 poo2/10-interface.py
+```
+
+#### 11 - Dunder Methods
+**Archivo:** `poo2/11-dunder-method.py`
+
+Métodos mágicos o dunder methods (`__init__`, `__str__`, etc.).
+
+```bash
+python3 poo2/11-dunder-method.py
+```
+
+### Manejo de Archivos
+
+#### 01 - Files
+**Archivo:** `manejo_archivos/01-file.py`
+
+Introducción al manejo de archivos en Python.
+
+```bash
+python3 manejo_archivos/01-file.py
+```
+
+#### 02 - Read, Write, Append
+**Archivo:** `manejo_archivos/02_read_write_append.py`
+
+Modos de apertura: lectura (`r`), escritura (`w`), y anexado (`a`).
+
+```bash
+python3 manejo_archivos/02_read_write_append.py
+```
+
+#### 03 - File Path
+**Archivo:** `manejo_archivos/03.file_path.py`
+
+Trabajar con rutas de archivos: absolutas y relativas.
+
+```bash
+python3 manejo_archivos/03.file_path.py
+```
+
+#### 04 - File Errors
+**Archivo:** `manejo_archivos/04_file_errors.py`
+
+Manejo de errores al trabajar con archivos.
+
+```bash
+python3 manejo_archivos/04_file_errors.py
+```
+
+#### 05 - CSV
+**Archivo:** `manejo_archivos/05-csv.py`
+
+Leer y escribir archivos CSV.
+
+```bash
+python3 manejo_archivos/05-csv.py
+```
+
+#### 06 - JSON
+**Archivo:** `manejo_archivos/06_json.py`
+
+Trabajar con archivos JSON: `json.load()` y `json.dump()`.
+
+```bash
+python3 manejo_archivos/06_json.py
+```
+
+#### 07 - Logs
+**Archivo:** `manejo_archivos/07-logs.py`
+
+Crear y gestionar archivos de log.
+
+```bash
+python3 manejo_archivos/07-logs.py
+```
+
+#### 08 - Scripts
+**Archivo:** `manejo_archivos/08-scripts.py`
+
+Generar archivos de scripts automáticamente.
+
+```bash
+python3 manejo_archivos/08-scripts.py
+```
+
+#### 09 - PDF
+**Archivo:** `manejo_archivos/09-.pdf.py`
+
+Trabajar con archivos PDF en Python.
+
+```bash
+python3 manejo_archivos/09-.pdf.py
+```
+
+#### 10 - Translate
+**Archivo:** `manejo_archivos/10-translate.py`
+
+Traducir texto de archivos usando librerías.
+
+```bash
+python3 manejo_archivos/10-translate.py
+```
+
+### Módulos
+
+#### 01 - Modules
+**Archivo:** `modulos/01-modules.py`
+
+Introducción a módulos: importar y usar código de otros archivos.
+
+```bash
+python3 modulos/01-modules.py
+```
+
+#### 02 - Packages
+**Archivo:** `modulos/02-packages.py`
+
+Crear y usar paquetes (carpetas con `__init__.py`).
+
+```bash
+python3 modulos/02-packages.py
+```
+
+#### 03 - __name__
+**Archivo:** `modulos/03-__name__.py`
+
+Uso de `__name__ == "__main__"` para ejecutar código solo como script.
+
+```bash
+python3 modulos/03-__name__.py
+```
+
+#### 04 - Alias
+**Archivo:** `modulos/04_alias.py`
+
+Importar módulos con alias usando `as`.
+
+```bash
+python3 modulos/04_alias.py
+```
+
+#### 05 - Pip
+**Archivo:** `modulos/05-pip.py`
+
+Gestión de paquetes con `pip`.
+
+```bash
+python3 modulos/05-pip.py
+```
+
+### Manejo de Errores
+
+#### 01 - Errors
+**Archivo:** `errors-management/01-errors.py`
+
+Tipos de errores comunes en Python.
+
+```bash
+python3 errors-management/01-errors.py
+```
+
+#### 02 - Try Except
+**Archivo:** `errors-management/02-try_except.py`
+
+Capturar excepciones con `try` y `except`.
+
+```bash
+python3 errors-management/02-try_except.py
+```
+
+#### 03 - Else Finally
+**Archivo:** `errors-management/03-else_finally.py`
+
+Uso de `else` y `finally` en manejo de excepciones.
+
+```bash
+python3 errors-management/03-else_finally.py
+```
+
+#### 04 - Custom Errors
+**Archivo:** `errors-management/04-custom_errors.py`
+
+Crear excepciones personalizadas.
+
+```bash
+python3 errors-management/04-custom_errors.py
+```
+
+#### 05 - Error Practice
+**Archivo:** `errors-management/05-error-practice.py`
+
+Ejercicios prácticos de manejo de errores.
+
+```bash
+python3 errors-management/05-error-practice.py
+```
+
+### Entornos Virtuales
+
+#### 01 - Venv
+**Archivo:** `environments/01-venv.py`
+
+Crear y gestionar entornos virtuales con `venv`.
+
+```bash
+python3 environments/01-venv.py
+```
+
+#### Pipenv
+**Carpeta:** `environments/pipenv/`
+
+Gestión de dependencias con Pipenv.
+
+#### Poetry
+**Carpeta:** `environments/poetry/`
+
+Gestión de proyectos con Poetry.
+
 ## 📝 Conceptos Aprendidos
 
 - ✅ Sintaxis básica de Python
@@ -700,6 +1008,20 @@ python3 poo/08-static_example.py
 - ✅ Fundamentos de Programación Orientada a Objetos (POO)
 - ✅ Clases, objetos, constructores
 - ✅ Atributos públicos, protegidos y privados
+- ✅ Métodos estáticos y de clase
+- ✅ POO Avanzada: herencia, polimorfismo, abstracción, encapsulación
+- ✅ Herencia múltiple y composición
+- ✅ Clases abstractas e interfaces
+- ✅ Dunder methods (métodos mágicos)
+- ✅ Manejo de archivos: lectura, escritura, append
+- ✅ Trabajo con CSV y JSON
+- ✅ Generación de logs y PDFs
+- ✅ Módulos y paquetes
+- ✅ Importaciones y alias
+- ✅ Gestión de paquetes con pip
+- ✅ Manejo de excepciones: try, except, else, finally
+- ✅ Excepciones personalizadas
+- ✅ Entornos virtuales: venv, pipenv, poetry
 
 ## 🚀 Ejecutar los Archivos
 
